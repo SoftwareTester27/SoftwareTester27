@@ -1,19 +1,16 @@
-![👋 Hi, my name is DeveloperKartik](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
-
-![image](https://github.com/user-attachments/assets/918aedeb-37ec-486d-bf9c-cd487bfe1428)
-
-
 ![Profile views](https://komarev.com/ghpvc/?username=SoftwareTester27&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is DeveloperKartik
+        👋 Hi, my name is
       </h1>
     </summary>
   </ul>
 </div>
+
+![image](https://github.com/user-attachments/assets/918aedeb-37ec-486d-bf9c-cd487bfe1428)
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/SoftwareTester27" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
