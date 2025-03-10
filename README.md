@@ -1,5 +1,8 @@
 ![👋 Hi, my name is DeveloperKartik](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
+![image](https://github.com/user-attachments/assets/918aedeb-37ec-486d-bf9c-cd487bfe1428)
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=SoftwareTester27&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
